@@ -23,14 +23,17 @@ The name of the project is Sugarizer Game Activity Pack which consists of two ac
 
 ### Mind Math Activity
 ##### Tasks Completed:
-* Single Player mode and all of its workflows added and implemented
-* Multiplayer player mode and all of its workflows added and implemented along with the Leaderboard screen.
-* Result screen added
-* Question generation and hint generation algorithms integrated
-* Timer and non timer mode added
-* Localisation added
-* Tutorial added
-* Responsive Activity
+* Sugarizer look & feel: use of Sugar toolbar and palette
+* Single Player mode and all of its workflows.
+* Network integration: integrate Sugarizer presence to share the activity on the network so that multiple users could play together. Multiplayer player mode and all of its workflows implementation along with the Leaderboard screen.
+* Question generation and hint generation algorithms.
+* Timer and non timer mode 
+* Result screen 
+* Sugarizer storage: load/save content into the Journal
+* Localisation:  User can use activity in different languages
+* Tutorial: an integrated documentation should be integrated to explain each feature of the activity
+* Responsive: content should adapt to any screen size, a fullscreen button should allow to mask the toolbar for smaller screens
+* Multi-device support: should work on any browser (Chrome, Firefox, Safari) and any platform (Android, iOS, Windows, Linux, MacOS) supported by Sugarizer
 
 *Play Screen*
 
@@ -46,47 +49,60 @@ The name of the project is Sugarizer Game Activity Pack which consists of two ac
 
 ### Tangram Activity
 ##### Tasks Completed:
-* Single Player mode and all of its workflows added and implemented
-* Multiplayer player mode and all of its workflows added and implemented along with the Leaderboard screen.
-* Result screen added
-* Random Tangram generation algorithm integrated
-* Algorithm to check if the tangram is solved or not added.
-* Default tangrams added
-* Setting Mode added and all of its workflows implemented
-* Timer and non timer mode added
-* Localisation added
-* Tutorial added
-* Responsive Activity
+* Sugarizer look & feel: use of Sugar toolbar and palette
+* Single Player mode and all of its workflows
+* Network integration: integrate Sugarizer presence to share the activity on the network so that multiple users could play together. Multiplayer player mode and all of its workflows implementation along with the Leaderboard screen.
+* Random Tangram generation algorithm integration.
+* Algorithm to check if the tangram is solved or not.
+* Set of Default tangrams 
+* Setting Mode added and all of its workflows 
+* Timer and non timer mode
+* Result screen 
+* Sugarizer storage: load/save content into the Journal
+* Localisation:  User can use activity in different languages
+* Tutorial: an integrated documentation should be integrated to explain each feature of the activity
+* Responsive: content should adapt to any screen size, a fullscreen button should allow to mask the toolbar for smaller screens
+* Multi-device support: should work on any browser (Chrome, Firefox, Safari) and any platform (Android, iOS, Windows, Linux, MacOS) supported by Sugarizer
+
 
 ![main](../screenshots/tangram-1.png)
 
 *Play Tangrams of many types and categories*
+
 ![main-1](../screenshots/tangram-14.png)
 ![main-2](../screenshots/tangram-3.png)
 
 *Easy game difficulty showing outlines*
+
 ![easy](../screenshots/tangram-6.png)
 
 *Medium game difficulty only silhouette*
+
 ![medium](../screenshots/tangram-7.png)
 
 *Timer Mode*
+
 ![Timer Mode](../screenshots/tangram-9.png)
 ![result screen](../screenshots/tangram-10.png)
 
 *Setting Mode / Screen*
+
 ![setting mode](../screenshots/tangram-4.png)
 
 *Create new Tangrams*
+
 ![setting mode](../screenshots/tangram-5.png)
 
 *Create new Tangram Category*
+
 ![setting mode](../screenshots/tangram-11.png)
 
 *Multiplayer Mode*
+
 ![multiplayer mode](../screenshots/tangram-12.png)
 
 *leaderboard*
+
 ![Leaderboard](../screenshots/tangram-13.png)
 
 ### Miscellaneous
