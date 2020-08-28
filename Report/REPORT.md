@@ -2,6 +2,8 @@
 
 #### Project Name: 
 Sugarizer Game Activity Pack 
+#### Organisation:
+Sugar labs
 #### Student: 
 Prakash Ujjwal
 #### Mentors:
