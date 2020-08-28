@@ -33,12 +33,15 @@ The name of the project is Sugarizer Game Activity Pack which consists of two ac
 * Responsive Activity
 
 *Play Screen*
+
 ![Play Screen](../screenshots/mindmath-1.png)
 
 *Result Screen*
+
 ![Result Screen](../screenshots/mindmath-2.png)
 
 *LeaderBoard*
+
 ![LeaderBoard](../screenshots/mindmath-3.png)
 
 ### Tangram Activity
