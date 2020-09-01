@@ -41,6 +41,12 @@ The name of the project is Sugarizer Game Activity Pack which consists of two ac
 
 ![Play Screen](../screenshots/mindmath-1.png)
 
+
+
+#### *Hint Generation for help*
+
+![Play Screen](../screenshots/mindmath-4.png)
+
 #### *Result Screen*
 
 ![Result Screen](../screenshots/mindmath-2.png)
