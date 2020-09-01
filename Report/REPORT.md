@@ -37,15 +37,15 @@ The name of the project is Sugarizer Game Activity Pack which consists of two ac
 * Responsive: content should adapt to any screen size, a fullscreen button should allow to mask the toolbar for smaller screens
 * Multi-device support: should work on any browser (Chrome, Firefox, Safari) and any platform (Android, iOS, Windows, Linux, MacOS) supported by Sugarizer
 
-*Play Screen*
+#### *Play Screen*
 
 ![Play Screen](../screenshots/mindmath-1.png)
 
-*Result Screen*
+#### *Result Screen*
 
 ![Result Screen](../screenshots/mindmath-2.png)
 
-*LeaderBoard*
+#### *LeaderBoard*
 
 ![LeaderBoard](../screenshots/mindmath-3.png)
 
@@ -69,41 +69,51 @@ The name of the project is Sugarizer Game Activity Pack which consists of two ac
 
 ![main](../screenshots/tangram-1.png)
 
-*Play Tangrams of many types and categories*
+#### *Play Tangrams of many types and categories*
 
-![main-1](../screenshots/tangram-14.png)
+<img src="../screenshots/tangrams-categories-banner.png" alt="main-1" style="zoom:150%;" />
+
 ![main-2](../screenshots/tangram-3.png)
 
-*Easy game difficulty showing outlines*
+#### *Game Modes : Easy (showing outlines also) and Medium (showing only silhouette)*
 
-![easy](../screenshots/tangram-6.png)
+<img src="../screenshots/game-modes-banner.png" alt="easy" style="zoom:150%;" />
 
-*Medium game difficulty only silhouette*
 
-![medium](../screenshots/tangram-7.png)
 
-*Timer Mode*
+#### *Random Tangrams Generation*
+
+<img src="../screenshots/random-tangram-banner.png" alt="Timer Mode" style="zoom:150%;" />
+
+#### *Timer Mode*
 
 ![Timer Mode](../screenshots/tangram-9.png)
+
+
+
 ![result screen](../screenshots/tangram-10.png)
 
-*Setting Mode / Screen*
+
+
+#### *Setting Mode / Screen*
 
 ![setting mode](../screenshots/tangram-4.png)
 
-*Create new Tangrams*
+#### *Create new Tangrams*
 
 ![setting mode](../screenshots/tangram-5.png)
 
-*Create new Tangram Category*
+#### *Create new Tangram Category*
 
 ![setting mode](../screenshots/tangram-11.png)
 
-*Multiplayer Mode*
+
+
+#### *Multiplayer Mode*
 
 ![multiplayer mode](../screenshots/tangram-12.png)
 
-*leaderboard*
+#### *Leaderboard*
 
 ![Leaderboard](../screenshots/tangram-13.png)
 
