@@ -1,16 +1,25 @@
 # GSoC 2020 Final Report
 
 #### Project Name: 
+
 Sugarizer Game Activity Pack 
+
 #### Organisation:
+
 Sugar labs
+
 #### Student: 
-Prakash Ujjwal
+
+ [Prakash Ujjwal](https://github.com/prakashujjwal1010)
+
 #### Mentors:
-Ashish Aggarwal and Lionel Laské 
+
+ [Ashish Aggarwal](https://github.com/ashish0910) and  [Lionel Laské](https://github.com/llaske)
 
 ### Project Introduction:
+
 The name of the project is Sugarizer Game Activity Pack which consists of two activities - Mind Math activity and Tangram activity. These two activities are requested by Sugarizer deployment in Saint-Ouen.
+
 * Mind Math Activity 
   * https://github.com/llaske/sugarizer/pull/817:
   * The Mind Math game activity is an engaging mathematical game which will encourage students to solve mathematical puzzles and will help in student’s development of computational fluency. The student is given five random numbers and should use the four basic arithmetic operations to build an operation that will result in the given output. The activity will have features like timer, multiplayer mode, localisation etc
@@ -24,7 +33,9 @@ The name of the project is Sugarizer Game Activity Pack which consists of two ac
 
 
 ### Mind Math Activity
+
 ##### Tasks Completed:
+
 * Sugarizer look & feel: use of Sugar toolbar and palette
 * Single Player mode and all of its workflows.
 * Network integration: integrate Sugarizer presence to share the activity on the network so that multiple users could play together. Multiplayer player mode and all of its workflows implementation along with the Leaderboard screen.
@@ -39,24 +50,26 @@ The name of the project is Sugarizer Game Activity Pack which consists of two ac
 
 #### *Play Screen*
 
-![Play Screen](../screenshots/mindmath-1.png)
+![Play Screen](https://github.com/prakashujjwal1010/GSoC2020/blob/master/screenshots/mindmath-1.png)
 
 
 
 #### *Hint Generation for help*
 
-![Play Screen](../screenshots/mindmath-4.png)
+![Play Screen](https://github.com/prakashujjwal1010/GSoC2020/blob/master/screenshots/mindmath-4.png)
 
 #### *Result Screen*
 
-![Result Screen](../screenshots/mindmath-2.png)
+![Result Screen](https://github.com/prakashujjwal1010/GSoC2020/blob/master/screenshots/mindmath-2.png)
 
 #### *LeaderBoard*
 
-![LeaderBoard](../screenshots/mindmath-3.png)
+![LeaderBoard](https://github.com/prakashujjwal1010/GSoC2020/blob/master/screenshots/mindmath-3.png)
 
 ### Tangram Activity
+
 ##### Tasks Completed:
+
 * Sugarizer look & feel: use of Sugar toolbar and palette
 * Single Player mode and all of its workflows
 * Network integration: integrate Sugarizer presence to share the activity on the network so that multiple users could play together. Multiplayer player mode and all of its workflows implementation along with the Leaderboard screen.
@@ -73,63 +86,67 @@ The name of the project is Sugarizer Game Activity Pack which consists of two ac
 * Multi-device support: should work on any browser (Chrome, Firefox, Safari) and any platform (Android, iOS, Windows, Linux, MacOS) supported by Sugarizer
 
 
-![main](../screenshots/tangram-1.png)
+![main](https://github.com/prakashujjwal1010/GSoC2020/blob/master/screenshots/tangram-1.png)
 
 #### *Play Tangrams of many types and categories*
 
-<img src="../screenshots/tangrams-categories-banner.png" alt="main-1" style="zoom:150%;" />
+<img src="https://github.com/prakashujjwal1010/GSoC2020/blob/master/screenshots/tangrams-categories-banner.png" alt="main-1" style="zoom:150%;" />
 
-![main-2](../screenshots/tangram-3.png)
+![main-2](https://github.com/prakashujjwal1010/GSoC2020/blob/master/screenshots/tangram-3.png)
 
 #### *Game Modes : Easy (showing outlines also) and Medium (showing only silhouette)*
 
-<img src="../screenshots/game-modes-banner.png" alt="easy" style="zoom:150%;" />
+<img src="https://github.com/prakashujjwal1010/GSoC2020/blob/master/screenshots/game-modes-banner.png" alt="easy" style="zoom:150%;" />
 
 
 
 #### *Random Tangrams Generation*
 
-<img src="../screenshots/random-tangram-banner.png" alt="Timer Mode" style="zoom:150%;" />
+<img src="https://github.com/prakashujjwal1010/GSoC2020/blob/master/screenshots/random-tangram-banner.png" alt="Timer Mode" style="zoom:150%;" />
 
 #### *Timer Mode*
 
-![Timer Mode](../screenshots/tangram-9.png)
+![Timer Mode](https://github.com/prakashujjwal1010/GSoC2020/blob/master/screenshots/tangram-9.png)
 
 
 
-![result screen](../screenshots/tangram-10.png)
+![result screen](https://github.com/prakashujjwal1010/GSoC2020/blob/master/screenshots/tangram-10.png)
 
 
 
 #### *Setting Mode / Screen*
 
-![setting mode](../screenshots/tangram-4.png)
+![setting mode](https://github.com/prakashujjwal1010/GSoC2020/blob/master/screenshots/tangram-4.png)
 
 #### *Create new Tangrams*
 
-![setting mode](../screenshots/tangram-5.png)
+![setting mode](https://github.com/prakashujjwal1010/GSoC2020/blob/master/screenshots/tangram-5.png)
 
 #### *Create new Tangram Category*
 
-![setting mode](../screenshots/tangram-11.png)
+![setting mode](https://github.com/prakashujjwal1010/GSoC2020/blob/master/screenshots/tangram-11.png)
 
 
 
 #### *Multiplayer Mode*
 
-![multiplayer mode](../screenshots/tangram-12.png)
+![multiplayer mode](https://github.com/prakashujjwal1010/GSoC2020/blob/master/screenshots/tangram-12.png)
 
 #### *Leaderboard*
 
-![Leaderboard](../screenshots/tangram-13.png)
+![Leaderboard](https://github.com/prakashujjwal1010/GSoC2020/blob/master/screenshots/tangram-13.png)
 
 ### Miscellaneous
+
 #### Worked on Chess Activity
+
 * https://github.com/llaske/sugarizer/pull/702
-*chess*
-![chess](../screenshots/chess.png)
+* *chess*
+  ![chess](https://github.com/prakashujjwal1010/GSoC2020/blob/master/screenshots/chess.png)
 
 ### Personal Notes:
+
 Google Summer of Code has been a super comfortable and fun experience for me. I’ve explored Vue.js, konva.js, implemented and studied many wonderful algorithms and found so many interesting things regarding the same. In GSoC, Whenever I got stuck somewhere or had to deal with problems or bugs , my mentors were always there to help me.
 I would love to be the maintainer for these activities and would try to solve issues regarding the same in the future. Also I would always be an active contributor in sugar Labs. 
 
+The GSoC journey made me fall in love with open source culture. :)
